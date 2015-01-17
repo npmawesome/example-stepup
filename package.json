@@ -1,0 +1,16 @@
+{
+  "name": "example-stepup",
+  "version": "1.0.0",
+  "description": "Example which describes how to use the stepup module.",
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npmawesome/example-stepup"
+  },
+  "dependencies": {
+    "stepup": "^1.1.2"
+  }
+}
